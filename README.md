@@ -1,7 +1,9 @@
 # 필요 라이브러리 설치
 
-- express - 설치 명령어 : npm i express
-- nodemon - 설치 명령어 : npm i -g nodemon
+- express
+  - 설치 명령어 : npm i express
+- nodemon
+  - 설치 명령어 : npm i -g nodemon
 
 # 실행 명령어
 
